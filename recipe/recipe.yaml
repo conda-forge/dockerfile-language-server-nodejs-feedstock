@@ -1,5 +1,5 @@
 context:
-  version: "0.13.0"
+  version: "0.14.0"
 
 package:
   name: dockerfile-language-server-nodejs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/dockerfile-language-server-nodejs/-/dockerfile-language-server-nodejs-${{ version }}.tgz
-  sha256: 2e6a287dcf5de6be2a1c01f149a8c3717fa0bc8a689cc355d94198081779d067
+  sha256: 2c2aa3fb4b1bea75701537a5e981f6001331308b930376e41305113edc4fe81a
 
 build:
   number: 0
